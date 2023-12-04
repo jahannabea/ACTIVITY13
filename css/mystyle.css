@@ -1,13 +1,13 @@
 
 body {
       margin: 0;
-      background-image: url('/images/combackground.jpeg');
+      background-image: url('/Activity13/images/combackground.jpeg');
       background-position: fixed;
       width:100%;
 }
 @media  (min-width:360px){
       .header{
-            background-image: url('/images/naturegreen.jpg');
+            background-image: url('/Activity13/images/naturegreen.jpg');
             background-position: fixed;
             width:100vw;
       }
@@ -59,7 +59,7 @@ img{
 
 @media (min-width:360px){
       .bg1{
-            background-image: url('/images/bgblue.jpg');
+            background-image: url('/Activity13/images/bgblue.jpg');
             background-position: fixed;
             width:100%;
       }
@@ -130,7 +130,7 @@ img{
       text-emphasis-position: fixed;
 }
 .section2{
-      background-image: url('/images/russiangreen.jpg');
+      background-image: url('/Activity13/images/russiangreen.jpg');
       background-position: fixed;
       padding: 2vh;
       height: 250px;
