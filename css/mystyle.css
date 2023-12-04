@@ -1,0 +1,175 @@
+
+body {
+      margin: 0;
+      background-image: url(/images/combackground.jpeg);
+      background-position: fixed;
+      width:100%;
+}
+@media  (min-width:360px){
+.header{
+      
+      background-image: url(/images/naturegreen.jpg);
+      background-position: fixed;
+      width:100vw;
+  }
+}
+.school {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 20px;
+      flex: 2;
+      margin-left: 5vw;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      display: flex;
+      text-emphasis-position: fixed;
+}
+
+.navitem {
+      text-decoration: none;
+      padding: 0 3vw 0 1vw;
+      font-family: 'Poppins', sans-serif;
+      color: rgb(0, 0, 0);
+      font-size: 23px;
+      margin-left: -30px;
+}
+img{
+      width: 60px;
+}
+.navlist {
+      list-style: none;
+      display: flex;
+      flex-wrap: nowrap;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      flex-direction: column;
+}
+.navbar {
+      flex: 1;
+}
+
+.header {
+      display: flex;
+      align-items: center;
+}
+
+.navitem:hover {
+      color: ghostwhite;
+      font-weight: bold;
+}
+@media (min-width:360px){
+.bg1{
+      background-image: url(/images/bgblue.jpg);
+      background-position: fixed;
+      width:100%;
+}
+}
+.title{
+      font-size: 30px;
+      text-align: center;
+      color: gold;
+      margin-top: 0px;
+      margin-bottom: 0px;
+
+}
+.paragraph{
+      text-align: center;
+      font-family: 'Fira Sans', sans-serif;
+      text-decoration: wavy;
+      color: goldenrod ;
+      padding-bottom: 10px;
+      font-size: 13px;
+  }
+.objective{
+      text-decoration-line: underline;
+      font-size: 10px;
+      text-align: left;
+      margin-left: 5px;
+      padding-left: 0cap;
+}
+.ja{
+      display: flex;
+      flex-direction: initial;
+      justify-content: space-between;
+}
+.s1{
+      border: 1vh black;
+      border-style: double;
+      background-color: bisque;
+      background-attachment: fixed;
+      height: 30vh;
+      width: 35vw;
+      text-align: center;
+      display: flex;
+      text-emphasis-position: fixed;
+
+}
+.section1{
+      font-size: 15px;
+  
+  
+}
+.s2{
+      border: 1vh black;
+      border-style: double;
+      background-color: bisque;
+      background-attachment: fixed;
+      height: 50vh;
+      width: 35vw;
+      text-align: center;
+      display: flex;
+      text-emphasis-position: fixed;
+
+
+
+}
+.s3{
+      text-align: left;
+      display: flex;
+      text-emphasis-position: fixed;
+}
+.section2{
+      background-image: url(/images/russiangreen.jpg);
+      background-position: fixed;
+      padding: 2vh;
+      height: 250px;
+      padding: 2vh;
+      transition: transform 0.80s;
+      width:170px;
+
+
+
+}
+
+.section2:hover {
+      transform: translate(15px, 5px);
+}
+
+h3{
+      font-size: 30px;
+      font-weight: bold;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-decoration: underline;
+}
+
+.footer {
+      min-height: 2vh;
+      text-align: center;
+      background-color: sandybrown;
+      margin-top: 2vh;
+      background-position: end;
+} 
+h3{
+      font-size: 13px;
+      padding-right: 20px;
+}
+h2{
+      font-size: 13px;
+}
+ul{
+      font-size: 13px;
+}
+ol{
+      font-size: 10px;
+      text-align: center;
+      padding-left: 30px;
+}
+   
